@@ -1,0 +1,6472 @@
+{
+  "bulbasaur": {
+    "id": 1,
+    "name": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "moves": [
+      "razor-wind",
+      "swords-dance",
+      "cut",
+      "bind",
+      "vine-whip",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "strength",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "sleep-powder",
+      "petal-dance"
+    ],
+    "height": 7,
+    "weight": 69
+  },
+  "ivysaur": {
+    "id": 2,
+    "name": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 60
+    },
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "vine-whip",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "roar",
+      "strength",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "sleep-powder",
+      "petal-dance"
+    ],
+    "height": 10,
+    "weight": 130
+  },
+  "venusaur": {
+    "id": 3,
+    "name": "venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "vine-whip",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "roar",
+      "hyper-beam",
+      "strength",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "sleep-powder"
+    ],
+    "height": 20,
+    "weight": 1000
+  },
+  "charmander": {
+    "id": 4,
+    "name": "charmander",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special-attack": 60,
+      "special-defense": 50,
+      "speed": 65
+    },
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "scratch",
+      "swords-dance",
+      "cut",
+      "wing-attack",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "bite",
+      "growl",
+      "roar",
+      "ember",
+      "flamethrower",
+      "submission",
+      "counter"
+    ],
+    "height": 6,
+    "weight": 85
+  },
+  "charmeleon": {
+    "id": 5,
+    "name": "charmeleon",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "special-attack": 80,
+      "special-defense": 65,
+      "speed": 80
+    },
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "scratch",
+      "swords-dance",
+      "cut",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "bite",
+      "growl",
+      "roar",
+      "ember",
+      "flamethrower",
+      "submission",
+      "counter",
+      "seismic-toss"
+    ],
+    "height": 11,
+    "weight": 190
+  },
+  "charizard": {
+    "id": 6,
+    "name": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special-attack": 109,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "scratch",
+      "swords-dance",
+      "cut",
+      "wing-attack",
+      "fly",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "bite",
+      "growl",
+      "roar",
+      "ember",
+      "flamethrower",
+      "hyper-beam"
+    ],
+    "height": 17,
+    "weight": 905
+  },
+  "squirtle": {
+    "id": 7,
+    "name": "squirtle",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "special-attack": 50,
+      "special-defense": 64,
+      "speed": 43
+    },
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "moves": [
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "submission",
+      "counter",
+      "seismic-toss"
+    ],
+    "height": 5,
+    "weight": 90
+  },
+  "wartortle": {
+    "id": 8,
+    "name": "wartortle",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 80,
+      "speed": 58
+    },
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "moves": [
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "submission",
+      "counter",
+      "seismic-toss"
+    ],
+    "height": 10,
+    "weight": 225
+  },
+  "blastoise": {
+    "id": 9,
+    "name": "blastoise",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 78
+    },
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "moves": [
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "roar",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 16,
+    "weight": 855
+  },
+  "caterpie": {
+    "id": 10,
+    "name": "caterpie",
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "special-attack": 20,
+      "special-defense": 20,
+      "speed": 45
+    },
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ],
+    "moves": [
+      "tackle",
+      "string-shot",
+      "snore",
+      "bug-bite",
+      "electroweb"
+    ],
+    "height": 3,
+    "weight": 29
+  },
+  "metapod": {
+    "id": 11,
+    "name": "metapod",
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 30
+    },
+    "abilities": [
+      "shed-skin"
+    ],
+    "moves": [
+      "string-shot",
+      "harden",
+      "iron-defense",
+      "bug-bite",
+      "electroweb"
+    ],
+    "height": 7,
+    "weight": 99
+  },
+  "butterfree": {
+    "id": 12,
+    "name": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 70
+    },
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "whirlwind",
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "psybeam",
+      "hyper-beam",
+      "mega-drain",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "string-shot",
+      "toxic",
+      "confusion",
+      "psychic",
+      "rage"
+    ],
+    "height": 11,
+    "weight": 320
+  },
+  "weedle": {
+    "id": 13,
+    "name": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special-attack": 20,
+      "special-defense": 20,
+      "speed": 50
+    },
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ],
+    "moves": [
+      "poison-sting",
+      "string-shot",
+      "bug-bite",
+      "electroweb"
+    ],
+    "height": 3,
+    "weight": 32
+  },
+  "kakuna": {
+    "id": 14,
+    "name": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 25,
+      "defense": 50,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 35
+    },
+    "abilities": [
+      "shed-skin"
+    ],
+    "moves": [
+      "string-shot",
+      "harden",
+      "iron-defense",
+      "bug-bite",
+      "electroweb"
+    ],
+    "height": 6,
+    "weight": 100
+  },
+  "beedrill": {
+    "id": 15,
+    "name": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "special-attack": 45,
+      "special-defense": 80,
+      "speed": 75
+    },
+    "abilities": [
+      "swarm",
+      "sniper"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "fury-attack",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "twineedle",
+      "pin-missile",
+      "hyper-beam",
+      "peck",
+      "mega-drain",
+      "solar-beam",
+      "string-shot",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "double-team",
+      "harden"
+    ],
+    "height": 10,
+    "weight": 295
+  },
+  "pidgey": {
+    "id": 16,
+    "name": "pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "special-attack": 35,
+      "special-defense": 35,
+      "speed": 56
+    },
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "reflect",
+      "bide",
+      "mirror-move",
+      "swift"
+    ],
+    "height": 3,
+    "weight": 18
+  },
+  "pidgeot": {
+    "id": 18,
+    "name": "pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "special-attack": 70,
+      "special-defense": 70,
+      "speed": 101
+    },
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "hyper-beam",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "reflect",
+      "bide",
+      "mirror-move"
+    ],
+    "height": 15,
+    "weight": 395
+  },
+  "rattata": {
+    "id": 19,
+    "name": "rattata",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "special-attack": 25,
+      "special-defense": 35,
+      "speed": 72
+    },
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ],
+    "moves": [
+      "cut",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "counter",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "quick-attack",
+      "rage"
+    ],
+    "height": 3,
+    "weight": 35
+  },
+  "raticate": {
+    "id": 20,
+    "name": "raticate",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "special-attack": 50,
+      "special-defense": 70,
+      "speed": 97
+    },
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "roar",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder"
+    ],
+    "height": 7,
+    "weight": 185
+  },
+  "spearow": {
+    "id": 21,
+    "name": "spearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 30,
+      "special-attack": 31,
+      "special-defense": 31,
+      "speed": 70
+    },
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ],
+    "moves": [
+      "razor-wind",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "fury-attack",
+      "take-down",
+      "double-edge",
+      "leer",
+      "growl",
+      "peck",
+      "drill-peck",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "focus-energy",
+      "bide"
+    ],
+    "height": 3,
+    "weight": 20
+  },
+  "fearow": {
+    "id": 22,
+    "name": "fearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "special-attack": 61,
+      "special-defense": 61,
+      "speed": 100
+    },
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ],
+    "moves": [
+      "razor-wind",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "fury-attack",
+      "take-down",
+      "double-edge",
+      "leer",
+      "growl",
+      "hyper-beam",
+      "peck",
+      "drill-peck",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "focus-energy"
+    ],
+    "height": 12,
+    "weight": 380
+  },
+  "ekans": {
+    "id": 23,
+    "name": "ekans",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "special-attack": 40,
+      "special-defense": 54,
+      "speed": 55
+    },
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "headbutt",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "leer",
+      "bite",
+      "disable",
+      "acid",
+      "strength",
+      "mega-drain",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "rage",
+      "mimic"
+    ],
+    "height": 20,
+    "weight": 69
+  },
+  "arbok": {
+    "id": 24,
+    "name": "arbok",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "special-attack": 65,
+      "special-defense": 79,
+      "speed": 80
+    },
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "headbutt",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "leer",
+      "bite",
+      "acid",
+      "hyper-beam",
+      "strength",
+      "mega-drain",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "rage",
+      "mimic"
+    ],
+    "height": 35,
+    "weight": 650
+  },
+  "pikachu": {
+    "id": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 90
+    },
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "thunder-punch",
+      "slam",
+      "double-kick",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "growl",
+      "surf",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave"
+    ],
+    "height": 4,
+    "weight": 60
+  },
+  "raichu": {
+    "id": 26,
+    "name": "raichu",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 110
+    },
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "thunder-punch",
+      "slam",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "growl",
+      "surf",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave"
+    ],
+    "height": 8,
+    "weight": 300
+  },
+  "sandshrew": {
+    "id": 27,
+    "name": "sandshrew",
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 85,
+      "special-attack": 20,
+      "special-defense": 30,
+      "speed": 40
+    },
+    "abilities": [
+      "sand-veil",
+      "sand-rush"
+    ],
+    "moves": [
+      "scratch",
+      "swords-dance",
+      "cut",
+      "sand-attack",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "agility",
+      "rage"
+    ],
+    "height": 6,
+    "weight": 120
+  },
+  "nidoran-f": {
+    "id": 29,
+    "name": "nidoran-f",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 47,
+      "defense": 52,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 41
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "moves": [
+      "scratch",
+      "cut",
+      "double-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "poison-sting",
+      "bite",
+      "growl",
+      "supersonic",
+      "disable",
+      "ice-beam",
+      "blizzard",
+      "counter",
+      "strength",
+      "thunderbolt",
+      "thunder"
+    ],
+    "height": 4,
+    "weight": 70
+  },
+  "nidorina": {
+    "id": 30,
+    "name": "nidorina",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 56
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "moves": [
+      "scratch",
+      "cut",
+      "double-kick",
+      "headbutt",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "poison-sting",
+      "bite",
+      "growl",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "counter",
+      "strength",
+      "thunderbolt"
+    ],
+    "height": 8,
+    "weight": 200
+  },
+  "nidoqueen": {
+    "id": 31,
+    "name": "nidoqueen",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 87,
+      "special-attack": 75,
+      "special-defense": 85,
+      "speed": 76
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "scratch",
+      "cut",
+      "double-kick",
+      "mega-kick",
+      "headbutt",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "poison-sting",
+      "bite",
+      "growl",
+      "roar"
+    ],
+    "height": 13,
+    "weight": 600
+  },
+  "nidoran-m": {
+    "id": 32,
+    "name": "nidoran-m",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 46,
+      "attack": 57,
+      "defense": 40,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 50
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "moves": [
+      "cut",
+      "double-kick",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "poison-sting",
+      "leer",
+      "supersonic",
+      "disable",
+      "ice-beam",
+      "blizzard",
+      "peck",
+      "counter",
+      "strength"
+    ],
+    "height": 5,
+    "weight": 90
+  },
+  "nidorino": {
+    "id": 33,
+    "name": "nidorino",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 72,
+      "defense": 57,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 65
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "moves": [
+      "cut",
+      "double-kick",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "leer",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "peck",
+      "counter",
+      "strength",
+      "thunderbolt"
+    ],
+    "height": 9,
+    "weight": 195
+  },
+  "nidoking": {
+    "id": 34,
+    "name": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "stats": {
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 85
+    },
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "cut",
+      "double-kick",
+      "mega-kick",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "poison-sting",
+      "leer",
+      "roar"
+    ],
+    "height": 14,
+    "weight": 620
+  },
+  "clefairy": {
+    "id": 35,
+    "name": "clefairy",
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "special-attack": 60,
+      "special-defense": 65,
+      "speed": 35
+    },
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "friend-guard"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "sing",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam"
+    ],
+    "height": 6,
+    "weight": 75
+  },
+  "clefable": {
+    "id": 36,
+    "name": "clefable",
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 60
+    },
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "unaware"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "sing",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam"
+    ],
+    "height": 13,
+    "weight": 400
+  },
+  "vulpix": {
+    "id": 37,
+    "name": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "special-attack": 50,
+      "special-defense": 65,
+      "speed": 65
+    },
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "roar",
+      "disable",
+      "ember",
+      "flamethrower",
+      "fire-spin",
+      "dig",
+      "toxic",
+      "hypnosis",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "confuse-ray"
+    ],
+    "height": 6,
+    "weight": 99
+  },
+  "ninetales": {
+    "id": 38,
+    "name": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "special-attack": 81,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "roar",
+      "disable",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "solar-beam",
+      "fire-spin",
+      "dig",
+      "toxic",
+      "hypnosis",
+      "agility",
+      "quick-attack",
+      "rage",
+      "night-shade"
+    ],
+    "height": 11,
+    "weight": 199
+  },
+  "jigglypuff": {
+    "id": 39,
+    "name": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "special-attack": 45,
+      "special-defense": 25,
+      "speed": 20
+    },
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "friend-guard"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "sing",
+      "disable",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "submission",
+      "counter"
+    ],
+    "height": 5,
+    "weight": 55
+  },
+  "wigglytuff": {
+    "id": 40,
+    "name": "wigglytuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": 70,
+      "defense": 45,
+      "special-attack": 85,
+      "special-defense": 50,
+      "speed": 45
+    },
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "frisk"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "sing",
+      "disable",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 10,
+    "weight": 120
+  },
+  "zubat": {
+    "id": 41,
+    "name": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special-attack": 30,
+      "special-defense": 40,
+      "speed": 55
+    },
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "bite",
+      "supersonic",
+      "absorb",
+      "mega-drain",
+      "toxic",
+      "hypnosis",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "confuse-ray"
+    ],
+    "height": 8,
+    "weight": 75
+  },
+  "golbat": {
+    "id": 42,
+    "name": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "bite",
+      "supersonic",
+      "hyper-beam",
+      "absorb",
+      "mega-drain",
+      "toxic",
+      "hypnosis",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "screech"
+    ],
+    "height": 16,
+    "weight": 550
+  },
+  "oddish": {
+    "id": 43,
+    "name": "oddish",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 55,
+      "special-attack": 75,
+      "special-defense": 65,
+      "speed": 30
+    },
+    "abilities": [
+      "chlorophyll",
+      "run-away"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "acid",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "petal-dance",
+      "toxic",
+      "rage",
+      "mimic",
+      "double-team"
+    ],
+    "height": 5,
+    "weight": 54
+  },
+  "gloom": {
+    "id": 44,
+    "name": "gloom",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 70,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 40
+    },
+    "abilities": [
+      "chlorophyll",
+      "stench"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "acid",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "petal-dance",
+      "toxic",
+      "rage",
+      "mimic",
+      "double-team"
+    ],
+    "height": 8,
+    "weight": 86
+  },
+  "vileplume": {
+    "id": 45,
+    "name": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "special-attack": 110,
+      "special-defense": 90,
+      "speed": 50
+    },
+    "abilities": [
+      "chlorophyll",
+      "effect-spore"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "acid",
+      "hyper-beam",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "petal-dance",
+      "toxic",
+      "rage"
+    ],
+    "height": 12,
+    "weight": 186
+  },
+  "paras": {
+    "id": 46,
+    "name": "paras",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 70,
+      "defense": 55,
+      "special-attack": 45,
+      "special-defense": 55,
+      "speed": 25
+    },
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ],
+    "moves": [
+      "scratch",
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "psybeam",
+      "counter",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "string-shot",
+      "dig",
+      "toxic"
+    ],
+    "height": 3,
+    "weight": 54
+  },
+  "parasect": {
+    "id": 47,
+    "name": "parasect",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 80,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ],
+    "moves": [
+      "scratch",
+      "swords-dance",
+      "cut",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "hyper-beam",
+      "counter",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "string-shot",
+      "dig",
+      "toxic"
+    ],
+    "height": 10,
+    "weight": 295
+  },
+  "venonat": {
+    "id": 48,
+    "name": "venonat",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 50,
+      "special-attack": 40,
+      "special-defense": 55,
+      "speed": 45
+    },
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens",
+      "run-away"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "disable",
+      "psybeam",
+      "mega-drain",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "string-shot",
+      "toxic",
+      "confusion",
+      "psychic",
+      "agility",
+      "rage",
+      "night-shade",
+      "mimic"
+    ],
+    "height": 10,
+    "weight": 300
+  },
+  "venomoth": {
+    "id": 49,
+    "name": "venomoth",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 90,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "abilities": [
+      "shield-dust",
+      "tinted-lens",
+      "wonder-skin"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "whirlwind",
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "disable",
+      "psybeam",
+      "hyper-beam",
+      "mega-drain",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "string-shot",
+      "toxic",
+      "confusion",
+      "psychic"
+    ],
+    "height": 15,
+    "weight": 125
+  },
+  "diglett": {
+    "id": 50,
+    "name": "diglett",
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 10,
+      "attack": 55,
+      "defense": 25,
+      "special-attack": 35,
+      "special-defense": 45,
+      "speed": 95
+    },
+    "abilities": [
+      "sand-veil",
+      "arena-trap",
+      "sand-force"
+    ],
+    "moves": [
+      "scratch",
+      "swords-dance",
+      "cut",
+      "sand-attack",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "bide",
+      "fury-swipes"
+    ],
+    "height": 2,
+    "weight": 8
+  },
+  "dugtrio": {
+    "id": 51,
+    "name": "dugtrio",
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 100,
+      "defense": 50,
+      "special-attack": 50,
+      "special-defense": 70,
+      "speed": 120
+    },
+    "abilities": [
+      "sand-veil",
+      "arena-trap",
+      "sand-force"
+    ],
+    "moves": [
+      "scratch",
+      "swords-dance",
+      "cut",
+      "sand-attack",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "hyper-beam",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "bide"
+    ],
+    "height": 7,
+    "weight": 333
+  },
+  "meowth": {
+    "id": 52,
+    "name": "meowth",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 90
+    },
+    "abilities": [
+      "pickup",
+      "technician",
+      "unnerve"
+    ],
+    "moves": [
+      "pay-day",
+      "scratch",
+      "cut",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "growl",
+      "water-gun",
+      "bubble-beam",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "hypnosis",
+      "agility",
+      "rage"
+    ],
+    "height": 4,
+    "weight": 42
+  },
+  "persian": {
+    "id": 53,
+    "name": "persian",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 70,
+      "defense": 60,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 115
+    },
+    "abilities": [
+      "limber",
+      "technician",
+      "unnerve"
+    ],
+    "moves": [
+      "pay-day",
+      "scratch",
+      "cut",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "bite",
+      "growl",
+      "roar",
+      "water-gun",
+      "bubble-beam",
+      "hyper-beam",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "dig",
+      "toxic",
+      "hypnosis",
+      "agility"
+    ],
+    "height": 10,
+    "weight": 320
+  },
+  "psyduck": {
+    "id": 54,
+    "name": "psyduck",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 52,
+      "defense": 48,
+      "special-attack": 65,
+      "special-defense": 50,
+      "speed": 55
+    },
+    "abilities": [
+      "damp",
+      "cloud-nine",
+      "swift-swim"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "ice-punch",
+      "scratch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "submission",
+      "low-kick"
+    ],
+    "height": 8,
+    "weight": 196
+  },
+  "golduck": {
+    "id": 55,
+    "name": "golduck",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 78,
+      "special-attack": 95,
+      "special-defense": 80,
+      "speed": 85
+    },
+    "abilities": [
+      "damp",
+      "cloud-nine",
+      "swift-swim"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "ice-punch",
+      "scratch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 17,
+    "weight": 766
+  },
+  "mankey": {
+    "id": 56,
+    "name": "mankey",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 35,
+      "special-attack": 35,
+      "special-defense": 45,
+      "speed": 70
+    },
+    "abilities": [
+      "vital-spirit",
+      "anger-point",
+      "defiant"
+    ],
+    "moves": [
+      "karate-chop",
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "scratch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "thunderbolt"
+    ],
+    "height": 5,
+    "weight": 280
+  },
+  "primeape": {
+    "id": 57,
+    "name": "primeape",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 105,
+      "defense": 60,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 95
+    },
+    "abilities": [
+      "vital-spirit",
+      "anger-point",
+      "defiant"
+    ],
+    "moves": [
+      "karate-chop",
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "scratch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength"
+    ],
+    "height": 10,
+    "weight": 320
+  },
+  "growlithe": {
+    "id": 58,
+    "name": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 45,
+      "special-attack": 70,
+      "special-defense": 50,
+      "speed": 60
+    },
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "justified"
+    ],
+    "moves": [
+      "double-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "bite",
+      "roar",
+      "ember",
+      "flamethrower",
+      "strength",
+      "dragon-rage",
+      "fire-spin",
+      "dig",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "double-team"
+    ],
+    "height": 7,
+    "weight": 190
+  },
+  "arcanine": {
+    "id": 59,
+    "name": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 95
+    },
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "justified"
+    ],
+    "moves": [
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "bite",
+      "roar",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "strength",
+      "solar-beam",
+      "dragon-rage",
+      "fire-spin",
+      "dig",
+      "toxic",
+      "agility",
+      "rage",
+      "teleport",
+      "mimic"
+    ],
+    "height": 19,
+    "weight": 1550
+  },
+  "poliwag": {
+    "id": 60,
+    "name": "poliwag",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 40,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 90
+    },
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "low-kick",
+      "dig",
+      "toxic",
+      "psychic",
+      "hypnosis",
+      "rage",
+      "mimic"
+    ],
+    "height": 6,
+    "weight": 124
+  },
+  "poliwhirl": {
+    "id": 61,
+    "name": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 65,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 90
+    },
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss"
+    ],
+    "height": 10,
+    "weight": 200
+  },
+  "poliwrath": {
+    "id": 62,
+    "name": "poliwrath",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 95,
+      "special-attack": 70,
+      "special-defense": 90,
+      "speed": 70
+    },
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter"
+    ],
+    "height": 13,
+    "weight": 540
+  },
+  "abra": {
+    "id": 63,
+    "name": "abra",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 20,
+      "defense": 15,
+      "special-attack": 105,
+      "special-defense": 55,
+      "speed": 90
+    },
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "thunder-wave",
+      "toxic",
+      "confusion",
+      "psychic",
+      "rage",
+      "teleport",
+      "mimic",
+      "double-team"
+    ],
+    "height": 9,
+    "weight": 195
+  },
+  "kadabra": {
+    "id": 64,
+    "name": "kadabra",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special-attack": 120,
+      "special-defense": 70,
+      "speed": 105
+    },
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "psybeam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "thunder-wave",
+      "dig",
+      "toxic",
+      "confusion",
+      "psychic",
+      "hypnosis"
+    ],
+    "height": 13,
+    "weight": 565
+  },
+  "alakazam": {
+    "id": 65,
+    "name": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "special-attack": 135,
+      "special-defense": 95,
+      "speed": 120
+    },
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "psybeam",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "thunder-wave",
+      "dig",
+      "toxic",
+      "confusion",
+      "psychic"
+    ],
+    "height": 15,
+    "weight": 480
+  },
+  "machop": {
+    "id": 66,
+    "name": "machop",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 50,
+      "special-attack": 35,
+      "special-defense": 35,
+      "speed": 35
+    },
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ],
+    "moves": [
+      "karate-chop",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "rolling-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "flamethrower",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake"
+    ],
+    "height": 8,
+    "weight": 195
+  },
+  "machoke": {
+    "id": 67,
+    "name": "machoke",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 70,
+      "special-attack": 50,
+      "special-defense": 60,
+      "speed": 45
+    },
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ],
+    "moves": [
+      "karate-chop",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "flamethrower",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake",
+      "fissure"
+    ],
+    "height": 15,
+    "weight": 705
+  },
+  "machamp": {
+    "id": 68,
+    "name": "machamp",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 85,
+      "speed": 55
+    },
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ],
+    "moves": [
+      "karate-chop",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "flamethrower",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake"
+    ],
+    "height": 16,
+    "weight": 1300
+  },
+  "bellsprout": {
+    "id": 69,
+    "name": "bellsprout",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 35,
+      "special-attack": 70,
+      "special-defense": 30,
+      "speed": 40
+    },
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "slam",
+      "vine-whip",
+      "headbutt",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "acid",
+      "mega-drain",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "toxic",
+      "rage",
+      "mimic"
+    ],
+    "height": 7,
+    "weight": 40
+  },
+  "weepinbell": {
+    "id": 70,
+    "name": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 50,
+      "special-attack": 85,
+      "special-defense": 45,
+      "speed": 55
+    },
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "slam",
+      "vine-whip",
+      "headbutt",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "acid",
+      "mega-drain",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "toxic",
+      "rage"
+    ],
+    "height": 10,
+    "weight": 64
+  },
+  "victreebel": {
+    "id": 71,
+    "name": "victreebel",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special-attack": 100,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "slam",
+      "vine-whip",
+      "headbutt",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "acid",
+      "hyper-beam",
+      "mega-drain",
+      "growth",
+      "razor-leaf",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "toxic"
+    ],
+    "height": 17,
+    "weight": 155
+  },
+  "tentacool": {
+    "id": 72,
+    "name": "tentacool",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "special-attack": 50,
+      "special-defense": 100,
+      "speed": 70
+    },
+    "abilities": [
+      "clear-body",
+      "liquid-ooze",
+      "rain-dish"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "headbutt",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "supersonic",
+      "acid",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "mega-drain",
+      "toxic",
+      "rage"
+    ],
+    "height": 9,
+    "weight": 455
+  },
+  "tentacruel": {
+    "id": 73,
+    "name": "tentacruel",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 65,
+      "special-attack": 80,
+      "special-defense": 120,
+      "speed": 100
+    },
+    "abilities": [
+      "clear-body",
+      "liquid-ooze",
+      "rain-dish"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "headbutt",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "poison-sting",
+      "supersonic",
+      "acid",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "hyper-beam",
+      "mega-drain",
+      "toxic"
+    ],
+    "height": 16,
+    "weight": 550
+  },
+  "geodude": {
+    "id": 74,
+    "name": "geodude",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 100,
+      "special-attack": 30,
+      "special-defense": 30,
+      "speed": 20
+    },
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "flamethrower",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "rock-throw",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "rage"
+    ],
+    "height": 4,
+    "weight": 200
+  },
+  "graveler": {
+    "id": 75,
+    "name": "graveler",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "special-attack": 45,
+      "special-defense": 45,
+      "speed": 35
+    },
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "flamethrower",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "rock-throw",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "rage"
+    ],
+    "height": 10,
+    "weight": 1050
+  },
+  "golem": {
+    "id": 76,
+    "name": "golem",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 130,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "mega-kick",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "roar",
+      "flamethrower",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "rock-throw",
+      "earthquake",
+      "fissure"
+    ],
+    "height": 14,
+    "weight": 3000
+  },
+  "ponyta": {
+    "id": 77,
+    "name": "ponyta",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 90
+    },
+    "abilities": [
+      "run-away",
+      "flash-fire",
+      "flame-body"
+    ],
+    "moves": [
+      "stomp",
+      "double-kick",
+      "headbutt",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "tail-whip",
+      "growl",
+      "ember",
+      "flamethrower",
+      "low-kick",
+      "strength",
+      "solar-beam",
+      "fire-spin",
+      "toxic",
+      "hypnosis",
+      "agility"
+    ],
+    "height": 10,
+    "weight": 300
+  },
+  "rapidash": {
+    "id": 78,
+    "name": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 105
+    },
+    "abilities": [
+      "run-away",
+      "flash-fire",
+      "flame-body"
+    ],
+    "moves": [
+      "pay-day",
+      "swords-dance",
+      "stomp",
+      "double-kick",
+      "headbutt",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "growl",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "low-kick",
+      "strength",
+      "solar-beam",
+      "fire-spin"
+    ],
+    "height": 17,
+    "weight": 950
+  },
+  "slowpoke": {
+    "id": 79,
+    "name": "slowpoke",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 65,
+      "defense": 65,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 15
+    },
+    "abilities": [
+      "oblivious",
+      "own-tempo",
+      "regenerator"
+    ],
+    "moves": [
+      "pay-day",
+      "stomp",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "disable",
+      "flamethrower",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "strength",
+      "thunder-wave",
+      "earthquake"
+    ],
+    "height": 12,
+    "weight": 360
+  },
+  "slowbro": {
+    "id": 80,
+    "name": "slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "oblivious",
+      "own-tempo",
+      "regenerator"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "ice-punch",
+      "stomp",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "disable",
+      "flamethrower",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam"
+    ],
+    "height": 16,
+    "weight": 785
+  },
+  "magnemite": {
+    "id": 81,
+    "name": "magnemite",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 35,
+      "defense": 70,
+      "special-attack": 95,
+      "special-defense": 55,
+      "speed": 45
+    },
+    "abilities": [
+      "magnet-pull",
+      "sturdy",
+      "analytic"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "sonic-boom",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "rage",
+      "teleport",
+      "mimic",
+      "screech",
+      "double-team",
+      "confuse-ray",
+      "light-screen",
+      "reflect",
+      "bide"
+    ],
+    "height": 3,
+    "weight": 60
+  },
+  "magneton": {
+    "id": 82,
+    "name": "magneton",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 95,
+      "special-attack": 120,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "magnet-pull",
+      "sturdy",
+      "analytic"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "sonic-boom",
+      "hyper-beam",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "rage",
+      "teleport",
+      "mimic",
+      "screech",
+      "double-team",
+      "confuse-ray",
+      "light-screen",
+      "reflect"
+    ],
+    "height": 10,
+    "weight": 600
+  },
+  "farfetchd": {
+    "id": 83,
+    "name": "farfetchd",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 52,
+      "attack": 90,
+      "defense": 55,
+      "special-attack": 58,
+      "special-defense": 62,
+      "speed": 60
+    },
+    "abilities": [
+      "keen-eye",
+      "inner-focus",
+      "defiant"
+    ],
+    "moves": [
+      "razor-wind",
+      "swords-dance",
+      "cut",
+      "gust",
+      "whirlwind",
+      "fly",
+      "sand-attack",
+      "headbutt",
+      "fury-attack",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "peck",
+      "razor-leaf",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic"
+    ],
+    "height": 8,
+    "weight": 150
+  },
+  "doduo": {
+    "id": 84,
+    "name": "doduo",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 85,
+      "defense": 45,
+      "special-attack": 35,
+      "special-defense": 35,
+      "speed": 75
+    },
+    "abilities": [
+      "run-away",
+      "early-bird",
+      "tangled-feet"
+    ],
+    "moves": [
+      "swords-dance",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "jump-kick",
+      "headbutt",
+      "fury-attack",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "growl",
+      "supersonic",
+      "peck",
+      "drill-peck",
+      "low-kick",
+      "toxic",
+      "agility",
+      "quick-attack"
+    ],
+    "height": 14,
+    "weight": 392
+  },
+  "dodrio": {
+    "id": 85,
+    "name": "dodrio",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 110,
+      "defense": 70,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 110
+    },
+    "abilities": [
+      "run-away",
+      "early-bird",
+      "tangled-feet"
+    ],
+    "moves": [
+      "swords-dance",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "jump-kick",
+      "headbutt",
+      "fury-attack",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "growl",
+      "supersonic",
+      "hyper-beam",
+      "peck",
+      "drill-peck",
+      "low-kick",
+      "toxic",
+      "agility"
+    ],
+    "height": 18,
+    "weight": 852
+  },
+  "seel": {
+    "id": 86,
+    "name": "seel",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 55,
+      "special-attack": 45,
+      "special-defense": 70,
+      "speed": 45
+    },
+    "abilities": [
+      "thick-fat",
+      "hydration",
+      "ice-body"
+    ],
+    "moves": [
+      "pay-day",
+      "slam",
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "peck",
+      "strength",
+      "toxic",
+      "rage"
+    ],
+    "height": 11,
+    "weight": 900
+  },
+  "dewgong": {
+    "id": 87,
+    "name": "dewgong",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "special-attack": 70,
+      "special-defense": 95,
+      "speed": 70
+    },
+    "abilities": [
+      "thick-fat",
+      "hydration",
+      "ice-body"
+    ],
+    "moves": [
+      "pay-day",
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "hyper-beam",
+      "strength",
+      "toxic",
+      "rage",
+      "mimic"
+    ],
+    "height": 17,
+    "weight": 1200
+  },
+  "grimer": {
+    "id": 88,
+    "name": "grimer",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "special-attack": 40,
+      "special-defense": 50,
+      "speed": 25
+    },
+    "abilities": [
+      "stench",
+      "sticky-hold",
+      "poison-touch"
+    ],
+    "moves": [
+      "pound",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "disable",
+      "flamethrower",
+      "strength",
+      "mega-drain",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "harden"
+    ],
+    "height": 9,
+    "weight": 300
+  },
+  "muk": {
+    "id": 89,
+    "name": "muk",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "special-attack": 65,
+      "special-defense": 100,
+      "speed": 50
+    },
+    "abilities": [
+      "stench",
+      "sticky-hold",
+      "poison-touch"
+    ],
+    "moves": [
+      "pound",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "disable",
+      "flamethrower",
+      "hyper-beam",
+      "strength",
+      "mega-drain",
+      "thunderbolt",
+      "thunder",
+      "dig",
+      "toxic",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team"
+    ],
+    "height": 12,
+    "weight": 300
+  },
+  "shellder": {
+    "id": 90,
+    "name": "shellder",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 65,
+      "defense": 100,
+      "special-attack": 45,
+      "special-defense": 25,
+      "speed": 40
+    },
+    "abilities": [
+      "shell-armor",
+      "skill-link",
+      "overcoat"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "twineedle",
+      "leer",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "toxic",
+      "rage",
+      "teleport",
+      "mimic",
+      "screech",
+      "double-team"
+    ],
+    "height": 3,
+    "weight": 40
+  },
+  "cloyster": {
+    "id": 91,
+    "name": "cloyster",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "special-attack": 85,
+      "special-defense": 45,
+      "speed": 70
+    },
+    "abilities": [
+      "shell-armor",
+      "skill-link",
+      "overcoat"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "twineedle",
+      "pin-missile",
+      "leer",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "hyper-beam",
+      "toxic",
+      "rage",
+      "teleport"
+    ],
+    "height": 15,
+    "weight": 1325
+  },
+  "gastly": {
+    "id": 92,
+    "name": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 35,
+      "defense": 30,
+      "special-attack": 100,
+      "special-defense": 35,
+      "speed": 80
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "moves": [
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "headbutt",
+      "disable",
+      "mega-drain",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "psychic",
+      "hypnosis",
+      "rage",
+      "night-shade",
+      "mimic",
+      "double-team",
+      "confuse-ray",
+      "haze",
+      "bide",
+      "self-destruct",
+      "lick"
+    ],
+    "height": 13,
+    "weight": 1
+  },
+  "haunter": {
+    "id": 93,
+    "name": "haunter",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 45,
+      "special-attack": 115,
+      "special-defense": 55,
+      "speed": 95
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "moves": [
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "headbutt",
+      "mega-drain",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "psychic",
+      "hypnosis",
+      "rage",
+      "night-shade",
+      "mimic",
+      "double-team",
+      "confuse-ray",
+      "haze",
+      "bide",
+      "metronome",
+      "self-destruct",
+      "lick"
+    ],
+    "height": 16,
+    "weight": 1
+  },
+  "gengar": {
+    "id": 94,
+    "name": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 130,
+      "special-defense": 75,
+      "speed": 110
+    },
+    "abilities": [
+      "cursed-body"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "mega-drain",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic"
+    ],
+    "height": 15,
+    "weight": 405
+  },
+  "onix": {
+    "id": 95,
+    "name": "onix",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 45,
+      "defense": 160,
+      "special-attack": 30,
+      "special-defense": 45,
+      "speed": 70
+    },
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "weak-armor"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "roar",
+      "strength",
+      "rock-throw",
+      "earthquake",
+      "fissure",
+      "dig",
+      "toxic",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "harden",
+      "defense-curl"
+    ],
+    "height": 88,
+    "weight": 2100
+  },
+  "drowzee": {
+    "id": 96,
+    "name": "drowzee",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 48,
+      "defense": 45,
+      "special-attack": 43,
+      "special-defense": 90,
+      "speed": 42
+    },
+    "abilities": [
+      "insomnia",
+      "forewarn",
+      "inner-focus"
+    ],
+    "moves": [
+      "pound",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "psybeam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "thunder-wave",
+      "toxic",
+      "confusion",
+      "psychic"
+    ],
+    "height": 10,
+    "weight": 324
+  },
+  "hypno": {
+    "id": 97,
+    "name": "hypno",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 73,
+      "defense": 70,
+      "special-attack": 73,
+      "special-defense": 115,
+      "speed": 67
+    },
+    "abilities": [
+      "insomnia",
+      "forewarn",
+      "inner-focus"
+    ],
+    "moves": [
+      "pound",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "psybeam",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "thunder-wave",
+      "toxic",
+      "confusion"
+    ],
+    "height": 16,
+    "weight": 756
+  },
+  "krabby": {
+    "id": 98,
+    "name": "krabby",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 105,
+      "defense": 90,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 50
+    },
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ],
+    "moves": [
+      "vice-grip",
+      "guillotine",
+      "swords-dance",
+      "cut",
+      "slam",
+      "stomp",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "water-gun",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "strength",
+      "dig",
+      "toxic",
+      "agility"
+    ],
+    "height": 4,
+    "weight": 65
+  },
+  "kingler": {
+    "id": 99,
+    "name": "kingler",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 75
+    },
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ],
+    "moves": [
+      "vice-grip",
+      "guillotine",
+      "swords-dance",
+      "cut",
+      "slam",
+      "stomp",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "strength",
+      "dig"
+    ],
+    "height": 13,
+    "weight": 600
+  },
+  "voltorb": {
+    "id": 100,
+    "name": "voltorb",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 50,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 100
+    },
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "sonic-boom",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "rage",
+      "teleport",
+      "mimic",
+      "screech",
+      "double-team",
+      "light-screen",
+      "reflect",
+      "bide",
+      "self-destruct"
+    ],
+    "height": 5,
+    "weight": 104
+  },
+  "electrode": {
+    "id": 101,
+    "name": "electrode",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 150
+    },
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "sonic-boom",
+      "hyper-beam",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "rage",
+      "teleport",
+      "mimic",
+      "screech",
+      "double-team",
+      "light-screen",
+      "reflect",
+      "bide"
+    ],
+    "height": 12,
+    "weight": 666
+  },
+  "exeggcute": {
+    "id": 102,
+    "name": "exeggcute",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 80,
+      "special-attack": 60,
+      "special-defense": 45,
+      "speed": 40
+    },
+    "abilities": [
+      "chlorophyll",
+      "harvest"
+    ],
+    "moves": [
+      "swords-dance",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "psybeam",
+      "strength",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "toxic",
+      "confusion",
+      "psychic",
+      "hypnosis",
+      "rage",
+      "teleport",
+      "mimic"
+    ],
+    "height": 4,
+    "weight": 25
+  },
+  "exeggutor": {
+    "id": 103,
+    "name": "exeggutor",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 85,
+      "special-attack": 125,
+      "special-defense": 75,
+      "speed": 55
+    },
+    "abilities": [
+      "chlorophyll",
+      "harvest"
+    ],
+    "moves": [
+      "swords-dance",
+      "stomp",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "psybeam",
+      "hyper-beam",
+      "low-kick",
+      "strength",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "solar-beam",
+      "stun-spore",
+      "earthquake",
+      "toxic",
+      "confusion",
+      "psychic",
+      "hypnosis"
+    ],
+    "height": 20,
+    "weight": 1200
+  },
+  "cubone": {
+    "id": 104,
+    "name": "cubone",
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "special-attack": 40,
+      "special-defense": 50,
+      "speed": 35
+    },
+    "abilities": [
+      "rock-head",
+      "lightning-rod",
+      "battle-armor"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "swords-dance",
+      "double-kick",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "growl",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "submission"
+    ],
+    "height": 4,
+    "weight": 65
+  },
+  "marowak": {
+    "id": 105,
+    "name": "marowak",
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 110,
+      "special-attack": 50,
+      "special-defense": 80,
+      "speed": 45
+    },
+    "abilities": [
+      "rock-head",
+      "lightning-rod",
+      "battle-armor"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "swords-dance",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "growl",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 10,
+    "weight": 450
+  },
+  "hitmonlee": {
+    "id": 106,
+    "name": "hitmonlee",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "special-attack": 35,
+      "special-defense": 110,
+      "speed": 87
+    },
+    "abilities": [
+      "limber",
+      "reckless",
+      "unburden"
+    ],
+    "moves": [
+      "mega-punch",
+      "swords-dance",
+      "double-kick",
+      "mega-kick",
+      "jump-kick",
+      "rolling-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake",
+      "toxic",
+      "meditate",
+      "rage"
+    ],
+    "height": 15,
+    "weight": 498
+  },
+  "hitmonchan": {
+    "id": 107,
+    "name": "hitmonchan",
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 79,
+      "special-attack": 35,
+      "special-defense": 110,
+      "speed": 76
+    },
+    "abilities": [
+      "keen-eye",
+      "iron-fist",
+      "inner-focus"
+    ],
+    "moves": [
+      "comet-punch",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "swords-dance",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "earthquake",
+      "toxic"
+    ],
+    "height": 14,
+    "weight": 502
+  },
+  "lickitung": {
+    "id": 108,
+    "name": "lickitung",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 75,
+      "special-attack": 60,
+      "special-defense": 75,
+      "speed": 30
+    },
+    "abilities": [
+      "own-tempo",
+      "oblivious",
+      "cloud-nine"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "swords-dance",
+      "cut",
+      "bind",
+      "slam",
+      "stomp",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "supersonic",
+      "disable",
+      "acid"
+    ],
+    "height": 12,
+    "weight": 655
+  },
+  "koffing": {
+    "id": 109,
+    "name": "koffing",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 95,
+      "special-attack": 60,
+      "special-defense": 45,
+      "speed": 35
+    },
+    "abilities": [
+      "levitate",
+      "neutralizing-gas",
+      "stench"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "flamethrower",
+      "psybeam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "smokescreen",
+      "haze",
+      "bide",
+      "self-destruct",
+      "smog",
+      "sludge",
+      "fire-blast"
+    ],
+    "height": 6,
+    "weight": 10
+  },
+  "weezing": {
+    "id": 110,
+    "name": "weezing",
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 120,
+      "special-attack": 85,
+      "special-defense": 70,
+      "speed": 60
+    },
+    "abilities": [
+      "levitate",
+      "neutralizing-gas",
+      "stench"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "flamethrower",
+      "psybeam",
+      "hyper-beam",
+      "thunderbolt",
+      "thunder",
+      "toxic",
+      "rage",
+      "mimic",
+      "screech",
+      "double-team",
+      "smokescreen",
+      "haze",
+      "bide",
+      "self-destruct",
+      "smog",
+      "sludge"
+    ],
+    "height": 12,
+    "weight": 95
+  },
+  "rhyhorn": {
+    "id": 111,
+    "name": "rhyhorn",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 95,
+      "special-attack": 30,
+      "special-defense": 30,
+      "speed": 25
+    },
+    "abilities": [
+      "lightning-rod",
+      "rock-head",
+      "reckless"
+    ],
+    "moves": [
+      "swords-dance",
+      "stomp",
+      "sand-attack",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "roar",
+      "flamethrower",
+      "ice-beam",
+      "blizzard",
+      "counter",
+      "strength"
+    ],
+    "height": 10,
+    "weight": 1150
+  },
+  "rhydon": {
+    "id": 112,
+    "name": "rhydon",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 130,
+      "defense": 120,
+      "special-attack": 45,
+      "special-defense": 45,
+      "speed": 40
+    },
+    "abilities": [
+      "lightning-rod",
+      "rock-head",
+      "reckless"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "swords-dance",
+      "cut",
+      "stomp",
+      "mega-kick",
+      "sand-attack",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "leer"
+    ],
+    "height": 19,
+    "weight": 1200
+  },
+  "chansey": {
+    "id": 113,
+    "name": "chansey",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "special-attack": 35,
+      "special-defense": 105,
+      "speed": 50
+    },
+    "abilities": [
+      "natural-cure",
+      "serene-grace",
+      "healer"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "growl",
+      "sing",
+      "flamethrower",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam"
+    ],
+    "height": 11,
+    "weight": 346
+  },
+  "tangela": {
+    "id": 114,
+    "name": "tangela",
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 115,
+      "special-attack": 100,
+      "special-defense": 40,
+      "speed": 60
+    },
+    "abilities": [
+      "chlorophyll",
+      "leaf-guard",
+      "regenerator"
+    ],
+    "moves": [
+      "swords-dance",
+      "cut",
+      "bind",
+      "slam",
+      "vine-whip",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "hyper-beam",
+      "absorb",
+      "mega-drain",
+      "leech-seed",
+      "growth",
+      "solar-beam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "toxic",
+      "confusion"
+    ],
+    "height": 10,
+    "weight": 350
+  },
+  "kangaskhan": {
+    "id": 115,
+    "name": "kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "special-attack": 40,
+      "special-defense": 80,
+      "speed": 90
+    },
+    "abilities": [
+      "early-bird",
+      "scrappy",
+      "inner-focus"
+    ],
+    "moves": [
+      "pound",
+      "comet-punch",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "cut",
+      "stomp",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "bite",
+      "growl",
+      "roar",
+      "disable",
+      "flamethrower"
+    ],
+    "height": 22,
+    "weight": 800
+  },
+  "horsea": {
+    "id": 116,
+    "name": "horsea",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 70,
+      "special-attack": 70,
+      "special-defense": 25,
+      "speed": 60
+    },
+    "abilities": [
+      "swift-swim",
+      "sniper",
+      "damp"
+    ],
+    "moves": [
+      "razor-wind",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "dragon-rage",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "double-team",
+      "smokescreen"
+    ],
+    "height": 4,
+    "weight": 80
+  },
+  "seadra": {
+    "id": 117,
+    "name": "seadra",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65,
+      "defense": 95,
+      "special-attack": 95,
+      "special-defense": 45,
+      "speed": 85
+    },
+    "abilities": [
+      "poison-point",
+      "sniper",
+      "damp"
+    ],
+    "moves": [
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "disable",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "hyper-beam",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "double-team",
+      "smokescreen",
+      "focus-energy"
+    ],
+    "height": 12,
+    "weight": 250
+  },
+  "goldeen": {
+    "id": 118,
+    "name": "goldeen",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 67,
+      "defense": 60,
+      "special-attack": 35,
+      "special-defense": 50,
+      "speed": 63
+    },
+    "abilities": [
+      "swift-swim",
+      "water-veil",
+      "lightning-rod"
+    ],
+    "moves": [
+      "swords-dance",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "peck",
+      "toxic",
+      "agility"
+    ],
+    "height": 6,
+    "weight": 150
+  },
+  "seaking": {
+    "id": 119,
+    "name": "seaking",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 65,
+      "special-attack": 65,
+      "special-defense": 80,
+      "speed": 68
+    },
+    "abilities": [
+      "swift-swim",
+      "water-veil",
+      "lightning-rod"
+    ],
+    "moves": [
+      "swords-dance",
+      "headbutt",
+      "horn-attack",
+      "fury-attack",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "hyper-beam",
+      "peck",
+      "toxic"
+    ],
+    "height": 13,
+    "weight": 390
+  },
+  "staryu": {
+    "id": 120,
+    "name": "staryu",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 55,
+      "special-attack": 70,
+      "special-defense": 55,
+      "speed": 85
+    },
+    "abilities": [
+      "illuminate",
+      "natural-cure",
+      "analytic"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "aurora-beam",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "rage",
+      "teleport"
+    ],
+    "height": 8,
+    "weight": 345
+  },
+  "starmie": {
+    "id": 121,
+    "name": "starmie",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 85,
+      "special-attack": 100,
+      "special-defense": 85,
+      "speed": 115
+    },
+    "abilities": [
+      "illuminate",
+      "natural-cure",
+      "analytic"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "hyper-beam",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "agility",
+      "rage",
+      "teleport"
+    ],
+    "height": 11,
+    "weight": 800
+  },
+  "mr-mime": {
+    "id": 122,
+    "name": "mr-mime",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 65,
+      "special-attack": 100,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "abilities": [
+      "soundproof",
+      "filter",
+      "technician"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "psybeam",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "solar-beam",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder"
+    ],
+    "height": 13,
+    "weight": 545
+  },
+  "scyther": {
+    "id": 123,
+    "name": "scyther",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "special-attack": 55,
+      "special-defense": 80,
+      "speed": 105
+    },
+    "abilities": [
+      "swarm",
+      "technician",
+      "steadfast"
+    ],
+    "moves": [
+      "razor-wind",
+      "swords-dance",
+      "cut",
+      "wing-attack",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "hyper-beam",
+      "counter",
+      "toxic",
+      "agility",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "light-screen",
+      "focus-energy",
+      "bide",
+      "swift"
+    ],
+    "height": 15,
+    "weight": 560
+  },
+  "jynx": {
+    "id": 124,
+    "name": "jynx",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 50,
+      "defense": 35,
+      "special-attack": 115,
+      "special-defense": 95,
+      "speed": 95
+    },
+    "abilities": [
+      "oblivious",
+      "forewarn",
+      "dry-skin"
+    ],
+    "moves": [
+      "pound",
+      "double-slap",
+      "mega-punch",
+      "ice-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "sing",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission",
+      "counter",
+      "seismic-toss",
+      "toxic"
+    ],
+    "height": 14,
+    "weight": 406
+  },
+  "electabuzz": {
+    "id": 125,
+    "name": "electabuzz",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 83,
+      "defense": 57,
+      "special-attack": 95,
+      "special-defense": 85,
+      "speed": 105
+    },
+    "abilities": [
+      "static",
+      "vital-spirit"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder"
+    ],
+    "height": 11,
+    "weight": 300
+  },
+  "magmar": {
+    "id": 126,
+    "name": "magmar",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 57,
+      "special-attack": 100,
+      "special-defense": 85,
+      "speed": 93
+    },
+    "abilities": [
+      "flame-body",
+      "vital-spirit"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "roar",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "submission",
+      "low-kick",
+      "counter",
+      "seismic-toss",
+      "strength",
+      "fire-spin"
+    ],
+    "height": 13,
+    "weight": 445
+  },
+  "pinsir": {
+    "id": 127,
+    "name": "pinsir",
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "special-attack": 55,
+      "special-defense": 70,
+      "speed": 85
+    },
+    "abilities": [
+      "hyper-cutter",
+      "mold-breaker",
+      "moxie"
+    ],
+    "moves": [
+      "vice-grip",
+      "guillotine",
+      "swords-dance",
+      "cut",
+      "bind",
+      "headbutt",
+      "fury-attack",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "hyper-beam",
+      "submission",
+      "seismic-toss",
+      "strength",
+      "string-shot",
+      "earthquake",
+      "dig",
+      "toxic",
+      "quick-attack"
+    ],
+    "height": 15,
+    "weight": 550
+  },
+  "tauros": {
+    "id": 128,
+    "name": "tauros",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "special-attack": 40,
+      "special-defense": 70,
+      "speed": 110
+    },
+    "abilities": [
+      "intimidate",
+      "anger-point",
+      "sheer-force"
+    ],
+    "moves": [
+      "stomp",
+      "headbutt",
+      "horn-attack",
+      "horn-drill",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "flamethrower",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "hyper-beam",
+      "strength",
+      "solar-beam",
+      "thunderbolt",
+      "thunder"
+    ],
+    "height": 14,
+    "weight": 884
+  },
+  "magikarp": {
+    "id": 129,
+    "name": "magikarp",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 55,
+      "special-attack": 15,
+      "special-defense": 20,
+      "speed": 80
+    },
+    "abilities": [
+      "swift-swim",
+      "rattled"
+    ],
+    "moves": [
+      "tackle",
+      "hydro-pump",
+      "splash",
+      "flail",
+      "bounce"
+    ],
+    "height": 9,
+    "weight": 100
+  },
+  "gyarados": {
+    "id": 130,
+    "name": "gyarados",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "special-attack": 60,
+      "special-defense": 100,
+      "speed": 81
+    },
+    "abilities": [
+      "intimidate",
+      "moxie"
+    ],
+    "moves": [
+      "bind",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "thrash",
+      "double-edge",
+      "leer",
+      "bite",
+      "roar",
+      "flamethrower",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "strength",
+      "dragon-rage"
+    ],
+    "height": 65,
+    "weight": 2350
+  },
+  "lapras": {
+    "id": 131,
+    "name": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "abilities": [
+      "water-absorb",
+      "shell-armor",
+      "hydration"
+    ],
+    "moves": [
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "growl",
+      "roar",
+      "sing",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "hyper-beam",
+      "strength",
+      "solar-beam",
+      "dragon-rage"
+    ],
+    "height": 25,
+    "weight": 2200
+  },
+  "ditto": {
+    "id": 132,
+    "name": "ditto",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 48,
+      "defense": 48,
+      "special-attack": 48,
+      "special-defense": 48,
+      "speed": 48
+    },
+    "abilities": [
+      "limber",
+      "imposter"
+    ],
+    "moves": [
+      "transform"
+    ],
+    "height": 3,
+    "weight": 40
+  },
+  "eevee": {
+    "id": 133,
+    "name": "eevee",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "special-attack": 45,
+      "special-defense": 65,
+      "speed": 55
+    },
+    "abilities": [
+      "run-away",
+      "adaptability",
+      "anticipation"
+    ],
+    "moves": [
+      "pay-day",
+      "double-kick",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "growl",
+      "roar",
+      "dig",
+      "toxic",
+      "quick-attack",
+      "rage",
+      "mimic",
+      "double-team",
+      "reflect",
+      "focus-energy"
+    ],
+    "height": 3,
+    "weight": 65
+  },
+  "vaporeon": {
+    "id": 134,
+    "name": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 65
+    },
+    "abilities": [
+      "water-absorb",
+      "hydration"
+    ],
+    "moves": [
+      "pay-day",
+      "double-kick",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "growl",
+      "roar",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam"
+    ],
+    "height": 10,
+    "weight": 290
+  },
+  "jolteon": {
+    "id": 135,
+    "name": "jolteon",
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 130
+    },
+    "abilities": [
+      "volt-absorb",
+      "quick-feet"
+    ],
+    "moves": [
+      "pay-day",
+      "double-kick",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "pin-missile",
+      "bite",
+      "growl",
+      "roar",
+      "hyper-beam",
+      "strength",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "dig"
+    ],
+    "height": 8,
+    "weight": 245
+  },
+  "flareon": {
+    "id": 136,
+    "name": "flareon",
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "special-attack": 95,
+      "special-defense": 110,
+      "speed": 65
+    },
+    "abilities": [
+      "flash-fire",
+      "guts"
+    ],
+    "moves": [
+      "pay-day",
+      "double-kick",
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "leer",
+      "bite",
+      "growl",
+      "roar",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "strength",
+      "fire-spin",
+      "dig",
+      "toxic"
+    ],
+    "height": 9,
+    "weight": 250
+  },
+  "porygon": {
+    "id": 137,
+    "name": "porygon",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 70,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 40
+    },
+    "abilities": [
+      "trace",
+      "download",
+      "analytic"
+    ],
+    "moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "hyper-beam",
+      "solar-beam",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "psychic",
+      "agility",
+      "rage",
+      "teleport",
+      "mimic",
+      "double-team"
+    ],
+    "height": 8,
+    "weight": 365
+  },
+  "omanyte": {
+    "id": 138,
+    "name": "omanyte",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 40,
+      "defense": 100,
+      "special-attack": 90,
+      "special-defense": 55,
+      "speed": 35
+    },
+    "abilities": [
+      "swift-swim",
+      "shell-armor",
+      "weak-armor"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "sand-attack",
+      "headbutt",
+      "horn-attack",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "bite",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "rock-throw",
+      "toxic"
+    ],
+    "height": 4,
+    "weight": 75
+  },
+  "omastar": {
+    "id": 139,
+    "name": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 125,
+      "special-attack": 115,
+      "special-defense": 70,
+      "speed": 55
+    },
+    "abilities": [
+      "swift-swim",
+      "shell-armor",
+      "weak-armor"
+    ],
+    "moves": [
+      "bind",
+      "sand-attack",
+      "headbutt",
+      "horn-attack",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "pin-missile",
+      "leer",
+      "bite",
+      "supersonic",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 10,
+    "weight": 350
+  },
+  "kabuto": {
+    "id": 140,
+    "name": "kabuto",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 80,
+      "defense": 90,
+      "special-attack": 55,
+      "special-defense": 45,
+      "speed": 55
+    },
+    "abilities": [
+      "swift-swim",
+      "battle-armor",
+      "weak-armor"
+    ],
+    "moves": [
+      "scratch",
+      "sand-attack",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "aurora-beam",
+      "absorb",
+      "mega-drain",
+      "rock-throw",
+      "dig",
+      "toxic",
+      "rage"
+    ],
+    "height": 5,
+    "weight": 115
+  },
+  "kabutops": {
+    "id": 141,
+    "name": "kabutops",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 115,
+      "defense": 105,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 80
+    },
+    "abilities": [
+      "swift-swim",
+      "battle-armor",
+      "weak-armor"
+    ],
+    "moves": [
+      "scratch",
+      "razor-wind",
+      "swords-dance",
+      "cut",
+      "mega-kick",
+      "sand-attack",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "leer",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "submission",
+      "low-kick"
+    ],
+    "height": 13,
+    "weight": 405
+  },
+  "aerodactyl": {
+    "id": 142,
+    "name": "aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special-attack": 60,
+      "special-defense": 75,
+      "speed": 130
+    },
+    "abilities": [
+      "rock-head",
+      "pressure",
+      "unnerve"
+    ],
+    "moves": [
+      "razor-wind",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "bite",
+      "roar",
+      "supersonic",
+      "flamethrower",
+      "hyper-beam",
+      "strength",
+      "dragon-rage",
+      "rock-throw",
+      "earthquake",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic"
+    ],
+    "height": 18,
+    "weight": 590
+  },
+  "snorlax": {
+    "id": 143,
+    "name": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "special-attack": 65,
+      "special-defense": 110,
+      "speed": 30
+    },
+    "abilities": [
+      "immunity",
+      "thick-fat",
+      "gluttony"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "whirlwind",
+      "mega-kick",
+      "headbutt",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "bite",
+      "flamethrower",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam"
+    ],
+    "height": 21,
+    "weight": 4600
+  },
+  "articuno": {
+    "id": 144,
+    "name": "articuno",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 95,
+      "special-defense": 125,
+      "speed": 85
+    },
+    "abilities": [
+      "pressure",
+      "snow-cloak"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "roar",
+      "mist",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "peck",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic"
+    ],
+    "height": 17,
+    "weight": 554
+  },
+  "zapdos": {
+    "id": 145,
+    "name": "zapdos",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 85,
+      "special-attack": 125,
+      "special-defense": 90,
+      "speed": 100
+    },
+    "abilities": [
+      "pressure",
+      "static"
+    ],
+    "moves": [
+      "razor-wind",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "roar",
+      "hyper-beam",
+      "peck",
+      "drill-peck",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic",
+      "double-team"
+    ],
+    "height": 16,
+    "weight": 526
+  },
+  "moltres": {
+    "id": 146,
+    "name": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "special-attack": 125,
+      "special-defense": 85,
+      "speed": 90
+    },
+    "abilities": [
+      "pressure",
+      "flame-body"
+    ],
+    "moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "fly",
+      "headbutt",
+      "take-down",
+      "double-edge",
+      "leer",
+      "roar",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "peck",
+      "solar-beam",
+      "fire-spin",
+      "toxic",
+      "agility",
+      "rage",
+      "mimic"
+    ],
+    "height": 20,
+    "weight": 600
+  },
+  "dratini": {
+    "id": 147,
+    "name": "dratini",
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 64,
+      "defense": 45,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 50
+    },
+    "abilities": [
+      "shed-skin",
+      "marvel-scale"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "headbutt",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "leer",
+      "supersonic",
+      "flamethrower",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "dragon-rage",
+      "fire-spin"
+    ],
+    "height": 18,
+    "weight": 33
+  },
+  "dragonair": {
+    "id": 148,
+    "name": "dragonair",
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 84,
+      "defense": 65,
+      "special-attack": 70,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "shed-skin",
+      "marvel-scale"
+    ],
+    "moves": [
+      "bind",
+      "slam",
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "leer",
+      "flamethrower",
+      "water-gun",
+      "hydro-pump",
+      "surf",
+      "ice-beam",
+      "blizzard",
+      "bubble-beam",
+      "hyper-beam",
+      "dragon-rage",
+      "fire-spin",
+      "thunderbolt"
+    ],
+    "height": 40,
+    "weight": 165
+  },
+  "dragonite": {
+    "id": 149,
+    "name": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "inner-focus",
+      "multiscale"
+    ],
+    "moves": [
+      "mega-punch",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "razor-wind",
+      "cut",
+      "wing-attack",
+      "fly",
+      "bind",
+      "slam",
+      "mega-kick",
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "wrap",
+      "take-down",
+      "double-edge",
+      "leer",
+      "roar",
+      "flamethrower"
+    ],
+    "height": 22,
+    "weight": 2100
+  },
+  "mewtwo": {
+    "id": 150,
+    "name": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "special-attack": 154,
+      "special-defense": 90,
+      "speed": 130
+    },
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ],
+    "moves": [
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "mega-kick",
+      "headbutt",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "disable",
+      "flamethrower",
+      "mist",
+      "water-gun",
+      "ice-beam",
+      "blizzard",
+      "psybeam",
+      "bubble-beam",
+      "hyper-beam",
+      "submission"
+    ],
+    "height": 20,
+    "weight": 1220
+  },
+  "mew": {
+    "id": 151,
+    "name": "mew",
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "abilities": [
+      "synchronize"
+    ],
+    "moves": [
+      "pound",
+      "mega-punch",
+      "pay-day",
+      "fire-punch",
+      "ice-punch",
+      "thunder-punch",
+      "razor-wind",
+      "swords-dance",
+      "cut",
+      "whirlwind",
+      "fly",
+      "bind",
+      "mega-kick",
+      "headbutt",
+      "horn-drill",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "pin-missile",
+      "roar"
+    ],
+    "height": 4,
+    "weight": 40
+  }
+}

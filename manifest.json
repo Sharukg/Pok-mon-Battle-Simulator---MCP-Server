@@ -1,0 +1,46 @@
+{
+  "api_version": "0.1.0",
+  "name": "pokemon_battle_simulator",
+  "description": "An MCP server that provides comprehensive Pokémon data and simulates battles between any two Pokémon.",
+  "tools": [
+    {
+      "id": "battle_simulation_tool",
+      "description": "Simulates a Pokémon battle between two specified Pokémon, providing a detailed log of the fight and declaring a winner.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "pokemon1": {
+            "type": "string",
+            "description": "The name of the first Pokémon for the battle."
+          },
+          "pokemon2": {
+            "type": "string",
+            "description": "The name of the second Pokémon for the battle."
+          }
+        },
+        "required": [
+          "pokemon1",
+          "pokemon2"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "pokemon_data_resource",
+      "description": "Provides comprehensive information about Pokémon, including stats, types, abilities, and moves.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "pokemon_name": {
+            "type": "string",
+            "description": "The name of the Pokémon to query for data."
+          }
+        },
+        "required": [
+          "pokemon_name"
+        ]
+      }
+    }
+  ]
+}

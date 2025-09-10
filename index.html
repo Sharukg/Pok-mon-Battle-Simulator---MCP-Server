@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Battle Simulator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Pokémon Battle Simulator</h1>
+
+        <div class="pokemon-selection">
+            <div class="pokemon-card">
+                <img id="p1-image" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pokémon 1">
+                <input type="text" id="pokemon1" value="pikachu" placeholder="Pokémon 1 Name">
+                <div class="hp-bar" id="p1-hp-bar"><div class="hp-fill"></div></div>
+            </div>
+            <span class="vs">VS</span>
+            <div class="pokemon-card">
+                <img id="p2-image" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="Pokémon 2">
+                <input type="text" id="pokemon2" value="charmander" placeholder="Pokémon 2 Name">
+                <div class="hp-bar" id="p2-hp-bar"><div class="hp-fill"></div></div>
+            </div>
+        </div>
+        
+        <button id="simulate-button">Simulate Battle</button>
+
+        <div class="battle-log-box">
+            <div id="battle-log">Ready to battle!</div>
+            <div id="winner"></div>
+        </div>
+
+        <div id="loading" class="hidden">Simulating battle...</div>
+        <div id="error" class="hidden"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
