@@ -30,8 +30,9 @@ Follow these steps to set up and run the project locally.
 #### Installation
 1.  Navigate to the project directory in your terminal.
 2.  Create and activate a Python virtual environment:
-    * **macOS/Linux**: `python3 -m venv venv && source venv/bin/activate`
-    * **Windows**: `python -m venv venv` followed by `venv\Scripts\activate`
+    * **Windows**:
+    * `python -m venv venv`
+    * followed by `venv\Scripts\activate`
 3.  Install the necessary Python dependencies:
     `pip install "fastapi[all]" uvicorn`
 
